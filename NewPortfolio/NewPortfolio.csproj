@@ -8,7 +8,10 @@
 
   <ItemGroup>
     <None Include="wwwroot\images\BoredAPI.PNG" />
-    <None Include="wwwroot\images\homepage.png" />
+	<None Include="wwwroot\images\chatapp.PNG" />
+	<None Include="wwwroot\images\github.png" />
+	<None Include="wwwroot\images\save.png" />
+	<None Include="wwwroot\images\newCandidate.png" />
     <None Include="wwwroot\images\linkmanager.png" />
     <None Include="wwwroot\images\profilepicture1.png" />
     <None Include="wwwroot\images\razorshop1.png" />
