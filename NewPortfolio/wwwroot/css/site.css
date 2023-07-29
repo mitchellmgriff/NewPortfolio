@@ -1,0 +1,59 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color:black;
+}
+
+
+.navbar {
+    width: 19%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
+
+.nav-link {
+    color: white;
+    transition: color, 0.5s;
+}
+
+.nav-link:hover {
+    color: grey;
+}
+
+.profilePicture {
+    width: 75%;
+    height: auto;
+   
+}
+
+.header {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 45px;
+    text-align: left;
+    color: white;
+}
+
+.subheader {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size:14px;
+}
+
+.rounded {
+    width: 50%;
+    height:auto;
+}

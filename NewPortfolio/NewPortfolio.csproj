@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\BoredAPI.PNG" />
+    <None Include="wwwroot\images\homepage.png" />
+    <None Include="wwwroot\images\linkmanager.png" />
+    <None Include="wwwroot\images\profilepicture1.png" />
+    <None Include="wwwroot\images\razorshop1.png" />
+  </ItemGroup>
+
+</Project>
